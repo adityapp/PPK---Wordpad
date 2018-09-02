@@ -1,0 +1,10 @@
+F:\Visual Studio\Tugas1 - Wordpad\Tugas1 - Wordpad\bin\Debug\Tugas1 - Wordpad.exe.config
+F:\Visual Studio\Tugas1 - Wordpad\Tugas1 - Wordpad\bin\Debug\Tugas1 - Wordpad.exe
+F:\Visual Studio\Tugas1 - Wordpad\Tugas1 - Wordpad\bin\Debug\Tugas1 - Wordpad.pdb
+F:\Visual Studio\Tugas1 - Wordpad\Tugas1 - Wordpad\obj\Debug\Tugas1 - Wordpad.csprojAssemblyReference.cache
+F:\Visual Studio\Tugas1 - Wordpad\Tugas1 - Wordpad\obj\Debug\Tugas1___Wordpad.Form1.resources
+F:\Visual Studio\Tugas1 - Wordpad\Tugas1 - Wordpad\obj\Debug\Tugas1___Wordpad.Properties.Resources.resources
+F:\Visual Studio\Tugas1 - Wordpad\Tugas1 - Wordpad\obj\Debug\Tugas1 - Wordpad.csproj.GenerateResource.cache
+F:\Visual Studio\Tugas1 - Wordpad\Tugas1 - Wordpad\obj\Debug\Tugas1 - Wordpad.csproj.CoreCompileInputs.cache
+F:\Visual Studio\Tugas1 - Wordpad\Tugas1 - Wordpad\obj\Debug\Tugas1 - Wordpad.exe
+F:\Visual Studio\Tugas1 - Wordpad\Tugas1 - Wordpad\obj\Debug\Tugas1 - Wordpad.pdb
